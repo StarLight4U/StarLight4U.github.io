@@ -1,2 +1,2 @@
 # Things.github.io
-A website about Things
+Things about Me
