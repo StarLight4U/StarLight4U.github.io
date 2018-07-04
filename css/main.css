@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #D9F5FF;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,9 +19,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-body {
-    background-color: #D9F5FF;
 }
 h1 {
     color: white;
